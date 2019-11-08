@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Argyris Politis Research | King&#39;s College London</title>
-    <link>http://example.org/</link>
+    <link>https://fervent-shockley-4646b8.netlify.com/</link>
     <description>Recent content on Argyris Politis Research | King&#39;s College London</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fervent-shockley-4646b8.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Research Associate in Computational Structural Biology</title>
-      <link>http://example.org/vacancies/2019_pdra_computational/</link>
+      <link>https://fervent-shockley-4646b8.netlify.com/vacancies/2019_pdra_computational/</link>
       <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/vacancies/2019_pdra_computational/</guid>
+      <guid>https://fervent-shockley-4646b8.netlify.com/vacancies/2019_pdra_computational/</guid>
       <description>Description
 Deadline: October 13th 2019
 The project involves the development of new computational tools to characterise membrane protein structure and dynamics in lipid bilayers. In particular, the project will use the emerging hydrogen-deuterium exchange mass spectrometry (HDX-MS) technology to guide 3D structural modelling of membrane proteins and their complexes within their native lipid environment. Applicants should have completed a PhD or have submitted a thesis, in computer science, chemistry, physics or related field.</description>
@@ -24,10 +24,10 @@ The project involves the development of new computational tools to characterise 
     
     <item>
       <title>Research Associate in Membrane Protein Structural Biology</title>
-      <link>http://example.org/vacancies/2019_pdra_experimental/</link>
+      <link>https://fervent-shockley-4646b8.netlify.com/vacancies/2019_pdra_experimental/</link>
       <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/vacancies/2019_pdra_experimental/</guid>
+      <guid>https://fervent-shockley-4646b8.netlify.com/vacancies/2019_pdra_experimental/</guid>
       <description>Description
 Deadline: October 13th 2019
 The project involves the study of membrane protein dynamics within their native lipid environment. In particular, the project will use the emerging hydrogen-deuterium exchange mass spectrometry (HDX-MS) technology to enable conformational fingerprints of membrane protein in lipid context. Applicants should have completed a PhD or have submitted a thesis, in biochemistry, molecular biology or related field. The successful candidate will have extensive experience in membrane protein expression and purification.</description>
@@ -35,60 +35,60 @@ The project involves the study of membrane protein dynamics within their native 
     
     <item>
       <title>Integrating hydrogen–deuterium exchange mass spectrometry with molecular dynamics simulations to probe lipid-modulated conformational changes in membrane proteins</title>
-      <link>http://example.org/portfolio/2019_natprot_martens/</link>
+      <link>https://fervent-shockley-4646b8.netlify.com/portfolio/2019_natprot_martens/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/2019_natprot_martens/</guid>
+      <guid>https://fervent-shockley-4646b8.netlify.com/portfolio/2019_natprot_martens/</guid>
       <description>Abstract
 Biological membranes define the boundaries of cells and are composed primarily of phospholipids and membrane proteins. It has become increasingly evident that direct interactions of membrane proteins with their surrounding lipids play key roles in regulating both protein conformations and function. However, the exact nature and structural consequences of these interactions remain difficult to track at the molecular level. Here, we present a protocol that specifically addresses this challenge. First, hydrogen-deuterium exchange mass spectrometry (HDX-MS) of membrane proteins incorporated into nanodiscs of controlled lipid composition is used to obtain information on the lipid species that are involved in modulating the conformational changes in the membrane protein.</description>
     </item>
     
     <item>
       <title>Structural basis of Cullin 2 RING E3 ligase regulation by the COP9 signalosome</title>
-      <link>http://example.org/portfolio/2019_natcomms_faull/</link>
+      <link>https://fervent-shockley-4646b8.netlify.com/portfolio/2019_natcomms_faull/</link>
       <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/2019_natcomms_faull/</guid>
+      <guid>https://fervent-shockley-4646b8.netlify.com/portfolio/2019_natcomms_faull/</guid>
       <description>Abstract
 Cullin-Ring E3 Ligases (CRLs) regulate a multitude of cellular pathways through specific substrate receptors. The COP9 signalosome (CSN) deactivates CRLs by removing NEDD8 from activated Cullins. Here we present structures of the neddylated and deneddylated CSN-CRL2 complexes by combining single-particle cryo-electron microscopy (cryo-EM) with chemical cross-linking mass spectrometry (XL-MS). These structures suggest a conserved mechanism of CSN activation, consisting of conformational clamping of the CRL2 substrate by CSN2/CSN4, release of the catalytic CSN5/CSN6 heterodimer and finally activation of the CSN5 deneddylation machinery.</description>
     </item>
     
     <item>
       <title>HDX-MS reveals nucleotide-dependent, anti-correlated opening and closure of SecA and SecY channels of the bacterial translocon</title>
-      <link>http://example.org/portfolio/2019_elife_ahdash/</link>
+      <link>https://fervent-shockley-4646b8.netlify.com/portfolio/2019_elife_ahdash/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/2019_elife_ahdash/</guid>
+      <guid>https://fervent-shockley-4646b8.netlify.com/portfolio/2019_elife_ahdash/</guid>
       <description>Abstract
 The bacterial Sec translocon is a multi-protein complex responsible for translocating diverse proteins across the plasma membrane. For post-translational protein translocation, the Sec-channel - SecYEG - associates with the motor protein SecA to mediate the ATP-dependent transport of pre-proteins across the membrane. Previously, a diffusional-based Brownian ratchet mechanism for protein secretion has been proposed; the structural dynamics required to facilitate this mechanism remain unknown. Here, we employ hydrogen-deuterium exchange mass spectrometry (HDX-MS) to reveal striking nucleotide-dependent conformational changes in the Sec protein-channel from Escherichia coli.</description>
     </item>
     
     <item>
       <title>ATP-induced asymmetric pre-protein folding as a driver of protein translocation through the Sec machinery</title>
-      <link>http://example.org/portfolio/2019_elife_corey/</link>
+      <link>https://fervent-shockley-4646b8.netlify.com/portfolio/2019_elife_corey/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/2019_elife_corey/</guid>
+      <guid>https://fervent-shockley-4646b8.netlify.com/portfolio/2019_elife_corey/</guid>
       <description>Abstract
 Transport of proteins across membranes is a fundamental process, achieved in every cell by the ‘Sec’ translocon. In prokaryotes, SecYEG associates with the motor ATPase SecA to carry out translocation for pre-protein secretion. Previously, we proposed a Brownian ratchet model for transport, whereby the free energy of ATP-turnover favours the directional diffusion of the polypeptide (Allen et al., 2016). Here, we show that ATP enhances this process by modulating secondary structure formation within the translocating protein.</description>
     </item>
     
     <item>
       <title>Structural Lipids Enable the Formation of Functional Oligomers of the Eukaryotic Purine Symporter UapA</title>
-      <link>http://example.org/portfolio/2018_cellchembiol_pyle/</link>
+      <link>https://fervent-shockley-4646b8.netlify.com/portfolio/2018_cellchembiol_pyle/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/2018_cellchembiol_pyle/</guid>
+      <guid>https://fervent-shockley-4646b8.netlify.com/portfolio/2018_cellchembiol_pyle/</guid>
       <description>Abstract
 The role of membrane lipids in modulating eukaryotic transporter assembly and function remains unclear. We investigated the effect of membrane lipids in the structure and transport activity of the purine transporter UapA from Aspergillus nidulans. We found that UapA exists mainly as a dimer and that two lipid molecules bind per UapA dimer. We identified three phospholipid classes that co-purified with UapA: phosphatidylcholine, phosphatidylethanolamine (PE), and phosphatidylinositol (PI). UapA delipidation caused dissociation of the dimer into monomers.</description>
     </item>
     
     <item>
       <title>Direct protein-lipid interactions shape the conformational landscape of secondary transporters</title>
-      <link>http://example.org/portfolio/2018_natcomms_martens_lipids/</link>
+      <link>https://fervent-shockley-4646b8.netlify.com/portfolio/2018_natcomms_martens_lipids/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/2018_natcomms_martens_lipids/</guid>
+      <guid>https://fervent-shockley-4646b8.netlify.com/portfolio/2018_natcomms_martens_lipids/</guid>
       <description>Abstract
 Secondary transporters undergo structural rearrangements to catalyze substrate translocation across the cell membrane - yet how such conformational changes happen within a lipid environment remains poorly understood. Here, we combine hydrogen-deuterium exchange mass spectrometry (HDX-MS) with molecular dynamics (MD) simulations to understand how lipids regulate the conformational dynamics of secondary transporters at the molecular level. Using the homologous transporters XylE, LacY and GlpT from Escherichia coli as model systems, we discover that conserved networks of charged residues act as molecular switches that drive the conformational transition between different states.</description>
     </item>

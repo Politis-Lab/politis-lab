@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PDRA on Argyris Politis Research | King&#39;s College London</title>
-    <link>http://example.org/tags/pdra/</link>
+    <link>https://fervent-shockley-4646b8.netlify.com/tags/pdra/</link>
     <description>Recent content in PDRA on Argyris Politis Research | King&#39;s College London</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/pdra/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fervent-shockley-4646b8.netlify.com/tags/pdra/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Research Associate in Computational Structural Biology</title>
-      <link>http://example.org/vacancies/2019_pdra_computational/</link>
+      <link>https://fervent-shockley-4646b8.netlify.com/vacancies/2019_pdra_computational/</link>
       <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/vacancies/2019_pdra_computational/</guid>
+      <guid>https://fervent-shockley-4646b8.netlify.com/vacancies/2019_pdra_computational/</guid>
       <description>Description
 Deadline: October 13th 2019
 The project involves the development of new computational tools to characterise membrane protein structure and dynamics in lipid bilayers. In particular, the project will use the emerging hydrogen-deuterium exchange mass spectrometry (HDX-MS) technology to guide 3D structural modelling of membrane proteins and their complexes within their native lipid environment. Applicants should have completed a PhD or have submitted a thesis, in computer science, chemistry, physics or related field.</description>
@@ -24,10 +24,10 @@ The project involves the development of new computational tools to characterise 
     
     <item>
       <title>Research Associate in Membrane Protein Structural Biology</title>
-      <link>http://example.org/vacancies/2019_pdra_experimental/</link>
+      <link>https://fervent-shockley-4646b8.netlify.com/vacancies/2019_pdra_experimental/</link>
       <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/vacancies/2019_pdra_experimental/</guid>
+      <guid>https://fervent-shockley-4646b8.netlify.com/vacancies/2019_pdra_experimental/</guid>
       <description>Description
 Deadline: October 13th 2019
 The project involves the study of membrane protein dynamics within their native lipid environment. In particular, the project will use the emerging hydrogen-deuterium exchange mass spectrometry (HDX-MS) technology to enable conformational fingerprints of membrane protein in lipid context. Applicants should have completed a PhD or have submitted a thesis, in biochemistry, molecular biology or related field. The successful candidate will have extensive experience in membrane protein expression and purification.</description>
