@@ -1,0 +1,19 @@
+enable  : true
+title   : Research Themes
+subtitle: >
+
+item    :
+  - image  : "images/buttons/LacY_circular_logo.png"
+    title : Mechanism of membrane transporters
+    description : >
+      Our work aims to provide a molecular description of the transport mechanism(s) of sugar transporters from the Major Facilitator Superfamily (MFS) using a novel combination of mass-spectrometry based methods and modelling.
+
+  - image  : "images/buttons/AcrB_circular_logo.png"
+    title : Mechanism of multi-drug efflux pumps
+    description : >
+      We use state-of-the-art hybrid-mass spectrometry to uncover the molecular level interactions of drugs with multidrug efflux pumps, enabling the exploration of their synergistic binding with lipids and to identify stable complex intermediates.
+
+  - image  : "images/buttons/IgG2_circular_logo.png"
+    title : Conformational dynamics of flexible proteins
+    description : >
+      Understanding the relationship between structure and function is imperative for the advancement of medical intervention. For these reasons, methods to better probe their conformational dynamics is of great interest.

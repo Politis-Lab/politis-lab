@@ -1,0 +1,25 @@
+{{ if .Site.Params.publications.enable }}
+{{ "<!-- Publications Section Start -->" | safeHTML }}
+<section id="publications">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-13">
+                <div class="block wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="500ms">
+                    <!-- {{ with .Site.Params.publications.title }}<h2>{{ . }}</h2>{{ end }} -->
+                    <!-- {{ with .Site.Params.publications.content }}<p>{{ . | safeHTML }}</p>{{ end }} -->
+
+                        {{ range $index, $elemrnt := .Site.Data.publications.item }}
+                            {{ $delay := mul (add $index 1) 300 }}
+                            <div class="media-body">
+                                {{ with .year }}<h4 class="media-heading">{{ . }}</h4>{{ end }}
+                                {{ with .reference }}<p>{{ . }}</p>{{ end }}
+                            </div>
+                        {{ end }}
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ "<!-- About Section End -->" | safeHTML }}
+{{ end }}

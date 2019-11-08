@@ -1,0 +1,64 @@
+enable  : true
+
+item    :
+  - year : 2019
+  - reference: "Martens, C., Shekhar, M., Lau, A. M., Tajkhorshid, E., Politis, A. (2019). Integrating hydrogen–deuterium exchange mass spectrometry with molecular dynamics simulations to probe lipid-modulated conformational changes in membrane proteins. Nature Protocols, doi: 10.1038/s41596-019-0219-6."
+  - reference: "Pyle, E., Guo, C., Hofmann, T., Schmidt, C., Ribiero, O., Politis, A., Byrne, B. (2019). Protein-lipid interactions stabilize the oligomeric state of BOR1p from Saccharomyces cerevisiae. Anal Chem, doi: 10.1021/acs.analchem.9b03271"
+  - reference: "#Faull, S. V, #Lau, A. M. C., Martens, C., Ahdash, Z., Hansen, K., Yebenes, H., Schmidt, C., Beuron F., Cronin, N. B., Morris, E. P., Politis, A. (2019). Structural basis of the Cullin 2 RING E3 ligase regulation by the COP9 signalosome. Nat Commun, 10 (1):3814. doi: 10.1038/s41467-019-11772-y."
+  - reference: "#Ahdash, Z., #Pyle, E., Allen, W. J., Corey, R. A., Collinson, I., Politis, A. (2019). HDX-MS reveals nucleotide-dependent, anti-correlated opening and closure of SecA and SecY channels of the bacterial translocon. Elife, 8. pii: e47402. doi: 10.7554/eLife.47402."
+
+  - year: 2018
+  - reference: "Lau, A. M. C., Ahdash, Z., Martens, C., Politis, A. (2019). Deuteros: software for rapid analysis and visualisation of data from differential hydrogen deuterium exchange-mass spectrometry. Bioinformatics, btz022, http://doi.org/10.1093/bioinformatics/btz022"
+  - reference: "#Corey, R. A., #Ahdash, Z., Shah, A., Pyle, E., Allen, W. J., Lovett, J. E., Politis, A.*, Collinson, I.* (2019). ATP-induced asymmetric pre-protein folding as a driver of protein translocation through the Sec machinery. eLife, DOI:10.7554/eLife.41803."
+  - reference: "#Hansen, K., #Lau, A. M., Giles, K., McDonnell, J. M., Struwe, W. B., Sutton, B. J., Politis, A. (2018). A mass-spectrometry-based modelling workflow for accurate prediction of IgG antibody conformations in the gas phase. Angewandte Chemie, DOI: 10.1002/anie.201812018."
+  - reference: "Claesen, J., Politis, A. (2018). POPPeT: a New Method to Predict the Protection Factor of Backbone Amide Hydrogens. Journal of the American Society for Mass Spectrometry. DOI: 10.1007/s13361-018-2068-x."
+  - reference: "Martens, C. Shekhar, M., Borysik, A. J., Lau, A. M., Reading, E., Tajkhorshid, E., Booth, P. J., Politis, A. (2018). Direct protein-lipid interactions shape the conformational landscape of secondary transporters. Nature Communications, 9, 4151, 9 (1)."
+  - reference: "Ahdash, A., Lau, A. M., Martens, C. and Politis, A. (2018). Analyzing protein architectures and protein-ligand complexes by integrative structural mass spectrometry. Journal of Visualized Experiments, 140, 57966."
+  - reference: "Pernigo, S., Chegkazi, M. S., Yip, Y. Y., Treacy, C., Glorani, G., Hansen, K., Politis, A., Bui, S., Dodding, M. P., Steiner, R. A. (2018). Structural basis for isoform-specific kinesin-1 recognition of Y-acidic cargo adaptors. eLife, 7. pii: e38362, DOI: 10.7554/eLife.38362."
+  - reference: "Corey, R. A., Pyle, E., Allen, W. J., Watkins, D. W., Casiraghi, M., Miroux, B., Arechaga, I., Politis, A., Collinson, I. (2018). Specific cardiolipin-SecY interactions are required for proton-motive force stimulation of protein secretion. Proceedings of the National Academy of Sciences USA, 115 (31): 7967-72. "
+  - reference: "Pyle, E., Kalli, A. C., Amillis, S., Hall, Z., Lau, A. M., Hanyaloglu, A. C., Diallinas, G., Byrne, B., Politis, A. (2018). Structural lipids enable the formation of functional oligomers of the eukaryotic purine symporter UapA. Cell Chemical Biology, 25 (7): 840-8."
+  - reference: "Hellwig, N., Petz, O., Ahdash, Z., Tascon, I., Booth, P. J., Mikusevic, V., Diskowski, M., Politis, A., Hellmich, Y., Handelt, I., Reading, E., Morgner, N.  (2018). Native mass spectrometry goes more native: investigation of membrane protein complexes directly from SMALPs. Chemical Communications, DOI: 10.1039/C8CC06284F"
+
+  - year: 2017
+  - reference: "Haupt, C., Hofmann, T., Wittig, S., Kostmann, S., Politis, A., Schmidt, C. (2017). Combining chemical cross-linking and mass spectrometry of intact protein complexes to study the architecture of multi-subunit protein assemblies. Journal of Visualized Experiments, (129)."
+  - reference: "Reading, E., Hall, Z., Martens, C., Haghighi, T., Findlay, H., Ahdash, Z., Politis, A., Booth, P. J. (2017). Interrogating membrane protein conformational dynamics within native lipid compositions. Angewandte Chemie, 56 (49): 15654-7. "
+  - reference: "Ahdash, Z., Lau, A. M., Byrne, R. T., Lammens, K., Stüetzer, A., Urlaub, H., Booth, P. J., Reading, E., Hopfen, K-P., Politis, A. (2017). Mechanistic insight into the assembly of the HerA-NurA helices-nuclease DNA end resection complex. Nucleic Acids Research, 45 (20): 12025-38. "
+  - reference: "Politis, A. & Schmidt, C. (2017). Structural characterisation of medically relevant protein assemblies by integrating mass spectrometry with computational modelling. Journal of Proteomics, S1874-3919 (17)."
+  - reference: "Schmidt, C., MacPherson, J. A., Lau, A. M., Tan, K. W., Fraternali, F., Politis, A. (2017). Surface accessibility and dynamics of macromolecular assemblies captured by covalent labelling mass spectrometry and molecular simulations. Analytical Chemistry, 89 (3), 1459-1468."
+
+  - year: 2016
+  - reference: "Ahdash, Z., Pyle, E., Politis, A. (2016). Hybrid mass spectrometry: towards characterisation of protein conformation states. Trends in Biochemical Sciences, 41 (8): 650-3. "
+  - reference: "Hall, Z., Schmidt, C., Politis, A. (2016). Uncovering the early assembly mechanism for amyloidogenic β2-microglobulin using cross-linking and native mass spectrometry. Journal of Biological Chemistry, 291 (9): 4626-37."
+
+  - year: 2015
+  - reference: "Hall, Z., Schmidt, C., Politis, A. (2015). Uncovering the early assembly mechanism for amyloidogenic β2-microglobulin using cross-linking and native mass spectrometry. Journal of Biological Chemistry, 291 (9): 4626-37. "
+  - reference: "Politis, A., Borysik, A. J. (2015). Assembling the pieces of macromolecular complexes: Hybrid structural biology approaches. Proteomics, 15 (16): 2792-803."
+  - reference: "Politis, A., Schmidt, C., Tijoe, E., Sandercock, A. M., Lasker, K., Gordiyenko, Y., Russel, D., Sali A., Robinson, C. V. (2015). Topological models of geteromeric protein assemblies from mass spectrometry: application to the yeast eIF3:eIF5 complex. Chemical Biology, 22 (1): 117-28. "
+
+  - year: 2014
+  - reference: "Marcoux, J., Politis, A., Rinehart, D., Marshall, D. P., Wallace, M. I., Tamm, L. K., Robinson, C. V. (2014). Mass spectrometry defines the C-terminal dimerization domain and enables modelling of the structure of full-length OmpA. Structure, 22 (5): 781-90."
+  - reference: "#Zhou, M., #Politis, A., Davies, R. B., Liko, I., Wu, K. J., Stewart, A. G., Stock, D., Robinson, C. V. (2014). Ion mobility-mass spectrometry of a rotary ATPase reveals ATP-induced reduction in conformational flexibility. Nature Chemistry, 6 (3): 208-15. "
+  - reference: "Politis, A., Stengel, F., Hall, Z., Hernández, H., Leitner, A., Waltzthoeni, T., Robinson, C. V., Aebersold, R. (2014). A mass spectrometry-based hybrid method for structural modelling of protein complexes. Nature Methods, 11 (4): 402-6. "
+  - reference: "Politis, A., Schmidt, C., Tijoe, E., Sali, A., Robinson, C. V. (2014). Determining the 3D topologies of heteromeric protein assemblies by mass-spectrometry based hybrid approach. Biophysical Journal, 106 (2)."
+
+  - year : 2013
+  - reference: "Rouillon, C., Zhou, M., Zhang, J., Politis, A., Beilsten-Edmands, V., Cannone, G., Graham, S., Robinson, C. V., Spagnolo, L., White, M. F. (2013). Structure of the CRISPR interference complex CSM reveals key similarities with cascade. Molecular Cell, 52 (1): 124-34. "
+  - reference: "Schmidt, C., Zhou, M., Harriott, H., Morgner, N., Politis, A., Robinson, C. V. (2013). Comparative cross-linking and mass spectrometry of an intact F-type ATPase suggests a role for phosphorylation. Nature Commun, 4: 1985."
+  - reference: "Marcoux, J., Wang, S. C., Politis, A., Reading, E., Ma, J., Biggin, P. C., Zhou, M., Tao, H., Zhang, Q., Chang, G., Morgner, N., Robinson, C. V. (2013) Proceedings of the National Academy of Sci USA, 110 (24): 9704-9."
+  - reference: "Politis, A., Park, A. Y., Hall, Z., Ruotolo, B. T., Robinson C. V. (2013). Integrative modelling coupled with ion mobility mass spectrometry reveals structural features of the clamp loader in complex with single-stranded DNA binding protein. Journal of Molecular Biology, 425 (23): 4790-801."
+
+  - year : 2012
+  - reference: "Hall, Z., Politis, A., Robinson, C. V. (2012). Structural modelling of heteromeric protein complexes from disassembly pathways and ion mobility-mass spectrometry. Structure, 20 (9): 1596-609."
+  - reference: "Hall, Z., Politis, A., Bush, M. F., Smith, L. J., Robinson, C. V. (2012). Charge-state dependent compaction and dissociation of protein complexes: insights from ion mobility and molecular dynamics. Journal of the American Chemical Society, 134 (7): 3429-38. "
+
+  - year : 2011
+  - reference: "Zhou, M., Morgner, N., Barrera, N. P., Politis, A., Issacson, S. C., Matak-Vinković, D., Murata, T., Bernal, R. A., Stock, D., Robinson, C. V. (2011). Mass spectrometery of intact V-type ATPases reveals bound lipids and the effects of nucleotide binding. Science, 334 (6054): 380-5."
+  - reference: "Lane, L. A., Fernández-Tornero, C., Zhou, M., Morgner, N., Ptchelkine, D., Steuerwald, U., Politis, A., Lindner, S., Gvozdenovic, J., Gavin, A. C., Müller, C. W., Robinson, C. V. (2011). Mass spectrometry reveals stable modules in holo and apo RNA poymerases I and III. Structure, 19 (1): 90-100. "
+
+  - year : 2010
+  - reference: "Wang, S. C., Politis, A., Di Bartolo, N., Bavro, V. N., Tucker, S. J., Booth, P. J., Barrera, N. P., Robinson, C. V. (2010). Ion mobility mass spectrometry of two tetrameric membrane protein complexes reveals compact structures and differences in stability and packing. Journal of the American Chemical Society, 132 (44): 15468-70. "
+  - reference: "Politis, A., Park, A. Y., Hyung, S. J., Barsky, D., Ruotolo, B. T., Robinson, C. V. (2010). Integrating ion mobility mass spectrometry with molecular modelling to determine the architecture of multiprotein complexes. PLoS One, 5 (8): e12080. "
+  - reference: "Park, A. Y., Jergic, S., Politis, A., Ruotolo, B. T., Hirschberg, D., Jessop, L. L., Beck, J. L. Barsky, D., O’Donnell, M., Dixon, N. E., Robinson, C. V. (2010). A single subunit directs the assembly of the Escherichia coli DNA sliding clamp loader. Structure, 18 (3): 285-92."
+
+  - year : 2009
+  - reference: "Pukala, T. L., Ruotolo, B. T., Zhou, M., Politis, A. Stefanescu, R., Leary, J. A., Robinson, C. V. (2009). Subunit architecture of multiprotein assemblies determined using restraints from gas-phase measurements. Structure, 17 (9): 1235-43."

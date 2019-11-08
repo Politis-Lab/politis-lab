@@ -1,0 +1,10 @@
+enable  : true
+title   : Previous Members
+subtitle:
+clientsLogo:
+  - image : images/team/previous_members-01.png
+  - image : images/team/previous_members-02.png
+  - image : images/team/previous_members-03.png
+  - image : images/team/previous_members-04.png
+  - image : images/team/previous_members-05.png
+  - image : images/team/previous_members-06.png

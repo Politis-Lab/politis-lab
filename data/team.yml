@@ -1,0 +1,27 @@
+enable  : true
+title   :
+members  :
+  - name  : Argyris Politis
+    image : images/team/Argyris.png
+    designation : Principal Investigator, Senior Lecturer in Systems Biology
+    description : Argyris has obtained degrees from the National Technical University of Athens, Greece and Imperial College London. As a post-doctoral researcher, he has worked in Cambridge and Oxford University with Prof. Dame Carol Robinson, as well as spending time at UCSF with Prof. Andrej Sali. His recent work led to the development of a mass spectrometry-based hybrid method for assembly modelling of large and heterogeneous protein complexes. This work was published in Nature Methods and Nature Chemistry.
+
+  - name  : Andy Lau
+    image : images/team/Andy.png
+    designation : Research Associate
+    description : Andy completed his BSc in Biochemistry from King's College London in 2015 and moved on to complete a PhD in Structural Bioinformatics with Argyris in 2019. His work during his PhD focused on developing methods of characterising the dynamics of macromolecular complexes using structural mass spectrometry. He is the developer of the HDX-MS data analysis program Deuteros.
+
+  - name  : Kjetil Hansen
+    image : images/team/KJ.png
+    designation : PhD Student (4th Year)
+    description : KJ's project looks at the conformational dynamics of antibodies in solution and in the gas-phase. This is achieved by the use of hydrogen-deuterium exchange and ion-mobility mass spectrometry. Molecular modelling and molecular dynamics are also considered in his project. Co-supervised by Prof. Brian Sutton.
+
+  - name  : Ruby Jia
+    image : images/team/Ruby.png
+    designation : PhD Student (2nd Year)
+    description : Ruby's project involves investigating the molecular mechanism of membrane transporters and disease-related mutant variants, using a combination of native MS and HDX-MS. Co-supervised by Prof. Paula Booth (King’s College London).
+
+  - name  : Joanna Toporowska
+    image : images/team/Joanna.png
+    designation : PhD Student (1st Year)
+    description : Joanna is a graduate of Pharmaceutical Analysis and an engineer in Chemical Technology. Her PhD project involves developing the HDX-MS technology to interrogate membrane protein dynamics and test how a native-like lipid environment affects drug binding. Co-supervised by Dr Jonathan Hopper (OMass Therapeutics).
