@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https:/www.politislab.com"
 languageCode = "en-us"
 title = "Argyris Politis Research | King's College London"
 theme = "timer-hugo"
