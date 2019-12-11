@@ -1,6 +1,6 @@
 ---
 title: "PhD studentship: Unravelling the conformational dynamics of membrane proteins within a lipid environment"
-date: 2019-10-13T00:00:00+00:00
+date: 2019-12-11
 description : ""
 type: PhD Student
 image:
