@@ -5,7 +5,7 @@ description : ""
 type: PhD Student
 image:
 author: Argyris Politis
-tags: ["PDRA"]
+tags: ["PhD Student"]
 ---
 **Description**
 
