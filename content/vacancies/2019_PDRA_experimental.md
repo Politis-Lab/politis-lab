@@ -9,7 +9,7 @@ tags: ["PDRA"]
 ---
 **Description**
 
-Deadline: October 13th 2019
+Deadline: Position no longer available
 
 The project involves the study of membrane protein dynamics within their native lipid environment. In particular, the project will use the emerging hydrogen-deuterium exchange mass spectrometry (HDX-MS) technology to enable conformational fingerprints of membrane protein in lipid context. Applicants should have completed a PhD or have submitted a thesis, in biochemistry, molecular biology or related field. The successful candidate will have extensive experience in membrane protein expression and purification. Experience in working with lipids and characterising expression levels are important. Experience in structural biology and/or mass spectrometry is desirable but not essential.
 Located in the heart of London, King’s is the hub of a global network of strong academic connections and collaboration, with prestigious international partnerships within and across disciplines – scientific and medical, social and creative. King’s is investing in the highest calibre of talent to drive the university forward to achieve its greatest potential. The very best from the United Kingdom and across the globe are invited to join King’s. We are looking for a strong commitment to teaching and research, to push the boundaries of knowledge, influence the future and create a lasting impact.

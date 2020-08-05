@@ -9,7 +9,7 @@ tags: ["PDRA"]
 ---
 **Description**
 
-Deadline: October 13th 2021
+Deadline: Position no longer available
 
 The project involves the development of new computational tools to characterise membrane protein structure and dynamics in lipid bilayers. In particular, the project will use the emerging hydrogen-deuterium exchange mass spectrometry (HDX-MS) technology to guide 3D structural modelling of membrane proteins and their complexes within their native lipid environment. Applicants should have completed a PhD or have submitted a thesis, in computer science, chemistry, physics or related field. The successful candidate will have extensive experience in computational and structural biology and molecular level simulations of proteins. Experience in working with membrane proteins and/or mass spectrometry is desirable but not essential.
 Located in the heart of London, King’s is the hub of a global network of strong academic connections and collaboration, with prestigious international partnerships within and across disciplines – scientific and medical, social and creative. King’s is investing in the highest calibre of talent to drive the university forward to achieve its greatest potential. The very best from the United Kingdom and across the globe are invited to join King’s. We are looking for a strong commitment to teaching and research, to push the boundaries of knowledge, influence the future and create a lasting impact.

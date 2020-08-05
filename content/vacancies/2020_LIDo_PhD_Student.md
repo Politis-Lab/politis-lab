@@ -11,7 +11,7 @@ tags: ["PhD Student"]
 
 Original advert: http://lido-dtp.ac.uk/politis.html
 
-Deadline: January 24th 2020
+Deadline: Position no longer available
 
 Supervisors:
 
