@@ -1,6 +1,11 @@
 enable  : true
 
 item    :
+
+  - year : 2020
+  - reference: "Lau, A. M., Claesen, J., Hansen, K., Politis, A. (2020). Deuteros 2.0: Peptide-level significance testing of data from hydrogen deuterium exchange mass spectrometry. Bioinformatics, btaa677."
+  - reference: "Lau, A. M. Jia, R., Bradshaw, R. T., Politis, A. (2020). Structural predictions of the functions of membrane proteins from HDX-MS. Biochemical Society Transactions."
+  
   - year : 2019
   - reference: "Martens, C., Shekhar, M., Lau, A. M., Tajkhorshid, E., Politis, A. (2019). Integrating hydrogen–deuterium exchange mass spectrometry with molecular dynamics simulations to probe lipid-modulated conformational changes in membrane proteins. Nature Protocols, doi: 10.1038/s41596-019-0219-6."
   - reference: "Pyle, E., Guo, C., Hofmann, T., Schmidt, C., Ribiero, O., Politis, A., Byrne, B. (2019). Protein-lipid interactions stabilize the oligomeric state of BOR1p from Saccharomyces cerevisiae. Anal Chem, doi: 10.1021/acs.analchem.9b03271"

@@ -6,10 +6,10 @@ members  :
     designation : Principal Investigator, Senior Lecturer in Systems Biology
     description : Argyris has obtained degrees from the National Technical University of Athens, Greece and Imperial College London. As a post-doctoral researcher, he has worked in Cambridge and Oxford University with Prof. Dame Carol Robinson, as well as spending time at UCSF with Prof. Andrej Sali. His recent work led to the development of a mass spectrometry-based hybrid method for assembly modelling of large and heterogeneous protein complexes. This work was published in Nature Methods and Nature Chemistry.
 
-  - name  : Andy Lau
-    image : images/team/Andy.png
+  - name  : Richard Bradshaw
+    image :
     designation : Research Associate
-    description : Andy completed his BSc in Biochemistry from King's College London in 2015 and moved on to complete a PhD in Structural Bioinformatics with Argyris in 2019. His work during his PhD focused on developing methods of characterising the dynamics of macromolecular complexes using structural mass spectrometry. He is the developer of the HDX-MS data analysis program Deuteros.
+    description :
 
   - name  : Kjetil Hansen
     image : images/team/KJ.png
