@@ -49,3 +49,5 @@ Each vacancy contained in individual markdown files in ```content/vacancies/```
 
 To add vacancy page:
 1. Copy and edit one of the current .md files in ```politis-lab/content/vacancies/```
+
+To remove a vacancy, just add .old to the end of the .md filename and it will disappear.
