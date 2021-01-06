@@ -7,9 +7,9 @@ members  :
     description : Argyris has obtained degrees from the National Technical University of Athens, Greece and Imperial College London. As a post-doctoral researcher, he has worked in Cambridge and Oxford University with Prof. Dame Carol Robinson, as well as spending time at UCSF with Prof. Andrej Sali. His recent work led to the development of a mass spectrometry-based hybrid method for assembly modelling of large and heterogeneous protein complexes. This work was published in Nature Methods and Nature Chemistry.
 
   - name  : Richard Bradshaw
-    image :
+    image : images/team/Richard.png
     designation : Research Associate
-    description :
+    description : Richard is working on the modelling of HDX data from MD simulations
 
   - name  : Kjetil Hansen
     image : images/team/KJ.png
