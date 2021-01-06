@@ -9,7 +9,12 @@ members  :
   - name  : Richard Bradshaw
     image : images/team/Richard.png
     designation : Research Associate
-    description : Richard is working on the modelling of HDX data from MD simulations
+    description : Richard is working on the modelling of HDX data from MD simulations.
+
+  - name  : Valeria Calvaresi
+    image : images/team/Valeria.png
+    designation : Research Associate
+    description : Valeria is an experimental post-doc exploring the application and development of HDX-MS on a variety of membrane proteins.
 
   - name  : Kjetil Hansen
     image : images/team/KJ.png
@@ -18,10 +23,15 @@ members  :
 
   - name  : Ruby Jia
     image : images/team/Ruby.png
-    designation : PhD Student (2nd Year)
+    designation : PhD Student (3rd Year)
     description : Ruby's project involves investigating the molecular mechanism of membrane transporters and disease-related mutant variants, using a combination of native MS and HDX-MS. Co-supervised by Prof. Paula Booth (King’s College London).
 
   - name  : Joanna Toporowska
     image : images/team/Joanna.png
+    designation : PhD Student (2nd Year)
+    description : Joanna is a graduate of Pharmaceutical Analysis and an engineer in Chemical Technology. Her PhD project involves developing the HDX-MS technology to interrogate membrane protein dynamics and test how a native-like lipid environment affects drug binding. Co-supervised by Dr Jonathan Hopper (OMass Therapeutics).
+
+  - name  : Damon Griffiths
+    image : images/team/Damon.png
     designation : PhD Student (1st Year)
     description : Joanna is a graduate of Pharmaceutical Analysis and an engineer in Chemical Technology. Her PhD project involves developing the HDX-MS technology to interrogate membrane protein dynamics and test how a native-like lipid environment affects drug binding. Co-supervised by Dr Jonathan Hopper (OMass Therapeutics).
