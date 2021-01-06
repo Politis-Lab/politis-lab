@@ -16,11 +16,6 @@ members  :
     designation : Research Associate
     description : Valeria is an experimental post-doc exploring the application and development of HDX-MS on a variety of membrane proteins.
 
-  - name  : Kjetil Hansen
-    image : images/team/KJ.png
-    designation : PhD Student (4th Year)
-    description : KJ's project looks at the conformational dynamics of antibodies in solution and in the gas-phase. This is achieved by the use of hydrogen-deuterium exchange and ion-mobility mass spectrometry. Molecular modelling and molecular dynamics are also considered in his project. Co-supervised by Prof. Brian Sutton.
-
   - name  : Ruby Jia
     image : images/team/Ruby.png
     designation : PhD Student (3rd Year)
@@ -34,4 +29,4 @@ members  :
   - name  : Damon Griffiths
     image : images/team/Damon.png
     designation : PhD Student (1st Year)
-    description : Joanna is a graduate of Pharmaceutical Analysis and an engineer in Chemical Technology. Her PhD project involves developing the HDX-MS technology to interrogate membrane protein dynamics and test how a native-like lipid environment affects drug binding. Co-supervised by Dr Jonathan Hopper (OMass Therapeutics).
+    description : Damon is a Waters and LIDo funded PhD student whose project focusses on the membrane protein NTSR1. Damon will utilise a variety of cutting-edge HDX techniques to investigate NTSR1 and other membrane proteins to probe their intrinsic dynamics.
