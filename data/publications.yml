@@ -2,19 +2,31 @@ enable  : true
 
 item    :
 
+  - year: 2021
+  - reference: "Lau AM, Politis A. (2021). Integrative Mass Spectrometry-Based Approaches for Modeling Macromolecular Assemblies. Methods Mol Biol. 2021;2247:221-241. doi: 10.1007/978-1-0716-1126-5_12."
+
   - year : 2020
-  - reference: "Lau, A. M., Claesen, J., Hansen, K., Politis, A. (2020). Deuteros 2.0: Peptide-level significance testing of data from hydrogen deuterium exchange mass spectrometry. Bioinformatics, btaa677."
+  - reference: "Jia, R., Martens, C., Shekhar, M., Pant, S., Pellowe, G. A., Lau, A. M., Findlay, H. E., Harris, N. J., Tajkhorshid, E., Booth, P. J., & Politis, A. (2020). Hydrogen-deuterium exchange mass spectrometry captures distinct dynamics upon substrate and inhibitor binding to a transporter. Nature communications, 11(1), 6162. https://doi.org/10.1038/s41467-020-20032-3"
+  - reference: "Reading, E., Ahdash, Z., Fais, C., Ricci, V., Wang-Kan, X., Grimsey, E., Stone, J., Malloci, G., Lau, A. M., Findlay, H., Konijnenberg, A., Booth, P. J., Ruggerone, P., Vargiu, A. V., Piddock, L., & Politis, A. (2020). Perturbed structural dynamics underlie inhibition and altered efflux of the multidrug resistance pump AcrB. Nature communications, 11(1), 5565. https://doi.org/10.1038/s41467-020-19397-2"
+  - reference: "Stützer, A., Welp, L. M., Raabe, M., Sachsenberg, T., Kappert, C., Wulf, A., Lau, A. M., David, S. S., Chernev, A., Kramer, K., Politis, A., Kohlbacher, O., Fischle, W., & Urlaub, H. (2020). Analysis of protein-DNA interactions in chromatin by UV induced cross-linking and mass spectrometry. Nature communications, 11(1), 5250. https://doi.org/10.1038/s41467-020-19047-7"
+  - reference: "Zhang, T., Hansen, K., Politis, A., & Müller, M. M. (2020). An Unusually Rapid Protein Backbone Modification Stabilizes the Essential Bacterial Enzyme MurA. Biochemistry, 59(39), 3683–3695. https://doi.org/10.1021/acs.biochem.0c00502"
+  - reference: "Lau, A. M., Claesen, J., Hansen, K., Politis, A. (2020). Deuteros 2.0: Peptide-level significance testing of data from hydrogen deuterium exchange mass spectrometry. Bioinformatics."
+  - reference: "Allison, T. M., Barran, P., Cianférani, S., Degiacomi, M. T., Gabelica, V., Grandori, R., Marklund, E. G., Menneteau, T., Migas, L. G., Politis, A., Sharon, M., Sobott, F., Thalassinos, K., & Benesch, J. (2020). Computational Strategies and Challenges for Using Native Ion Mobility Mass Spectrometry in Biophysics and Structural Biology. Analytical chemistry, 92(16), 10872–10880. https://doi.org/10.1021/acs.analchem.9b05791"
+  - reference: "Allison, T. M., Barran, P., Benesch, J., Cianferani, S., Degiacomi, M. T., Gabelica, V., Grandori, R., Marklund, E. G., Menneteau, T., Migas, L. G., Politis, A., Sharon, M., Sobott, F., & Thalassinos, K. (2020). Software Requirements for the Analysis and Interpretation of Native Ion Mobility Mass Spectrometry Data. Analytical chemistry, 92(16), 10881–10890. https://doi.org/10.1021/acs.analchem.9b05792"
   - reference: "Lau, A. M. Jia, R., Bradshaw, R. T., Politis, A. (2020). Structural predictions of the functions of membrane proteins from HDX-MS. Biochemical Society Transactions."
-  
+  - reference: "Martens, C., & Politis, A. (2020). A glimpse into the molecular mechanism of integral membrane proteins through hydrogen-deuterium exchange mass spectrometry. Protein science : a publication of the Protein Society, 29(6), 1285–1301. https://doi.org/10.1002/pro.3853"
+  - reference: "Hansen, K., & Politis, A. (2020). Improving Peptide Fragmentation for Hydrogen-Deuterium Exchange Mass Spectrometry Using a Time-Dependent Collision Energy Calculator. Journal of the American Society for Mass Spectrometry, 31(4), 996–999. https://doi.org/10.1021/jasms.9b00133"
+
   - year : 2019
+  - reference: "Kourkoulou, A., Grevias, P., Lambrinidis, G., Pyle, E., Dionysopoulou, M., Politis, A., Mikros, E., Byrne, B., & Diallinas, G. (2019). Specific Residues in a Purine Transporter Are Critical for Dimerization, ER Exit, and Function. Genetics, 213(4), 1357–1372. https://doi.org/10.1534/genetics.119.302566"
   - reference: "Martens, C., Shekhar, M., Lau, A. M., Tajkhorshid, E., Politis, A. (2019). Integrating hydrogen–deuterium exchange mass spectrometry with molecular dynamics simulations to probe lipid-modulated conformational changes in membrane proteins. Nature Protocols, doi: 10.1038/s41596-019-0219-6."
   - reference: "Pyle, E., Guo, C., Hofmann, T., Schmidt, C., Ribiero, O., Politis, A., Byrne, B. (2019). Protein-lipid interactions stabilize the oligomeric state of BOR1p from Saccharomyces cerevisiae. Anal Chem, doi: 10.1021/acs.analchem.9b03271"
   - reference: "#Faull, S. V, #Lau, A. M. C., Martens, C., Ahdash, Z., Hansen, K., Yebenes, H., Schmidt, C., Beuron F., Cronin, N. B., Morris, E. P., Politis, A. (2019). Structural basis of the Cullin 2 RING E3 ligase regulation by the COP9 signalosome. Nat Commun, 10 (1):3814. doi: 10.1038/s41467-019-11772-y."
   - reference: "#Ahdash, Z., #Pyle, E., Allen, W. J., Corey, R. A., Collinson, I., Politis, A. (2019). HDX-MS reveals nucleotide-dependent, anti-correlated opening and closure of SecA and SecY channels of the bacterial translocon. Elife, 8. pii: e47402. doi: 10.7554/eLife.47402."
-
-  - year: 2018
   - reference: "Lau, A. M. C., Ahdash, Z., Martens, C., Politis, A. (2019). Deuteros: software for rapid analysis and visualisation of data from differential hydrogen deuterium exchange-mass spectrometry. Bioinformatics, btz022, http://doi.org/10.1093/bioinformatics/btz022"
   - reference: "#Corey, R. A., #Ahdash, Z., Shah, A., Pyle, E., Allen, W. J., Lovett, J. E., Politis, A.*, Collinson, I.* (2019). ATP-induced asymmetric pre-protein folding as a driver of protein translocation through the Sec machinery. eLife, DOI:10.7554/eLife.41803."
+
+  - year: 2018
   - reference: "#Hansen, K., #Lau, A. M., Giles, K., McDonnell, J. M., Struwe, W. B., Sutton, B. J., Politis, A. (2018). A mass-spectrometry-based modelling workflow for accurate prediction of IgG antibody conformations in the gas phase. Angewandte Chemie, DOI: 10.1002/anie.201812018."
   - reference: "Claesen, J., Politis, A. (2018). POPPeT: a New Method to Predict the Protection Factor of Backbone Amide Hydrogens. Journal of the American Society for Mass Spectrometry. DOI: 10.1007/s13361-018-2068-x."
   - reference: "Martens, C. Shekhar, M., Borysik, A. J., Lau, A. M., Reading, E., Tajkhorshid, E., Booth, P. J., Politis, A. (2018). Direct protein-lipid interactions shape the conformational landscape of secondary transporters. Nature Communications, 9, 4151, 9 (1)."
