@@ -1,5 +1,6 @@
 ## Element locations
 
+
 ### Homepage
 Most settings and items controlled in ```politis-lab/config.toml```
 
